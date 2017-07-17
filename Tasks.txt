@@ -3,3 +3,10 @@
 2. Приложение должно уметь принимать запросы вида /messages/1, получать сообщения из базы и отдавать их пользователю
 в формате JSON.
 3. Добавить REST-endpoint для сохранения нового сообщения в базу.
+
+
+Ссылки:
+https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#using-boot-starter
+https://spring.io/guides/gs/actuator-service/
+https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-devtools.html
+https://spring.io/guides/gs/accessing-data-mysql/
